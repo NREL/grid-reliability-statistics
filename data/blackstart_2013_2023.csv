@@ -1,0 +1,11 @@
+,UnitTypeCode,Description,Count,MW
+0,100,Fossil-Steam,51,12400
+1,200,Nuclear,1,800
+2,300,Gas Turbine/Jet Engine (Simple Cycle Operation),490,32575
+3,400,Internal Combustion/Reciprocating Engines,6,120
+4,500,Pumped Storage/Hydro,336,18405
+5,800,Miscellaneous,5,500
+6,850,Combined Cycle Block,17,5100
+7,851,CC GT units ,51,7650
+8,852,CC steam units,18,2700
+9,860,Co-generator Block ,1,150
